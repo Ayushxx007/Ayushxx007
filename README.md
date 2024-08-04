@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumawat</h1>
-<h3 align="center">Experienced Competitive coder and Software engineer with a strong foundation in algorithm design, data structures, and problem-solving. Successfully competed in programming contests ,solving over 1200 complex coding problems with a focus on optimization. Skilled in full-stack development using technologies such as HTML, CSS, JavaScript, Java, React, Node.js, Express.js, MongoDB, SQL, REST APIs, and Next.js and developed robust software solutions including stock trading platform and comprehensive platform for algorithmic problem-solving.Demonstrated ability to deliver high-quality software within tight deadlines, with an emphasis on performance optimization and scalability.</h3>
+<h3 align="center">Experienced competitive coder and software engineer with a strong foundation in algorithm design, data structures, and problem-solving. Successfully competed in programming contests ,solving over 1200 complex coding problems with a focus on optimization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushxx007&label=Profile%20views&color=0e75b6&style=flat" alt="ayushxx007" /> </p>
 
-- 💬 Core Competencies **Algorithm design, data structures, full-stack development (HTML, CSS, JavaScript, Java, React, Node.js, Express.js, MongoDB, SQL), optimization and efficiency in problem-solving, REST API development, performance optimization, scalability, and team collaboration.**
+- 💬 Core Competencies: **Algorithm design, data structures, full-stack development (HTML, CSS, JavaScript, Java, React, Node.js, Express.js, MongoDB, SQL, REST APIs, and Next.js ), optimization and efficiency in problem-solving, REST API development, performance optimization, scalability, and team collaboration.**
 
-- 📫 How to reach me **ayushkumawat0007@gmail.com**
+- 🛠️ **Designed and implemented a comprehensive platform for algorithmic problem-solving, similar to popular competitive coding platforms, utilizing a full-stack technology stack.**
 
-- My projects **Designed and implemented a comprehensive platform for algorithmic problem-solving, similar to popular competitive coding platforms, utilizing a full-stack technology stack.**
+- 📫reach me: **ayushkumawat0007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
