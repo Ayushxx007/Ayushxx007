@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumawat</h1>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 <h3 align="center">Experienced competitive coder and software engineer with a strong foundation in algorithm design, data structures, and problem-solving. Successfully competed in programming contests ,solving over 1200 complex coding problems with a focus on optimization.</h3>
 
